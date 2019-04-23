@@ -1,4 +1,4 @@
-package { { cookiecutter.package_name } }
+package media.controller
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
