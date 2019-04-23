@@ -1,7 +1,7 @@
 package media.controller.di.scope
 
 import javax.inject.Scope
-import kotlin.annotation.Retention;
+import kotlin.annotation.Retention
 
 
 @Scope

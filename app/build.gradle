@@ -77,7 +77,7 @@ dependencies {
 
     //crashlytics
     implementation (rootProject.ext.crashlytics){
-        transitive = true;
+        transitive = true
     }
 
     //di
