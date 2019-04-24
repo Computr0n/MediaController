@@ -22,6 +22,9 @@ repositories {
 }
 
 android {
+    lintOptions {
+        abortOnError false
+    }
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion "28.0.3"
 
